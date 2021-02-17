@@ -1,6 +1,6 @@
-# Comparativo de Regimes de Contratação PJ e CLT para Profissionais de Tecnologia.
+# 🚀 Comparativo de Regimes de Contratação PJ e CLT para Profissionais de Tecnologia.
 
-### Programadores constantemente se deparam com a dúvida: Qual a melhor modalidade de contratação, CLT ou PJ? 
+### 💻 Programadores constantemente se deparam com a dúvida: Qual a melhor modalidade de contratação, CLT ou PJ? 
 
 O objetivo deste aplicativo é justamente esclarecer e principalmente ajudar durante o processo de escolha da modalidade de contratação, mostrando uma estimativa de qual será a remuneração líquida recebida pelo contratado, além de mostrar também o total do custo da modalidade CLT, podendo tal estimativa servir de base para negociação do regime de contratação PJ. 
 
@@ -10,7 +10,7 @@ O objetivo deste aplicativo é justamente esclarecer e principalmente ajudar dur
 
 É válido lembrar também que não existe uma verdade absoluta e que ambas as modalidades de contratação têm vantagens e desvantagens.
 
-### Observações:
+### ⚠️ Observações:
 * Toda a parte visual também foi desenvolvida por mim, desde a logo, até a paleta de cores utilizada no projeto.
 * Caso reste alguma dúvida acerca dos encargos, não hesite em procurar um contador.
 
