@@ -1,4 +1,4 @@
-# 🚀 Comparativo de Regimes de Contratação PJ e CLT para Profissionais de Tecnologia.
+## 🚀 Comparativo de Regimes de Contratação PJ e CLT para Profissionais de Tecnologia.
 
 
 ### 💻 Programadores constantemente se deparam com a dúvida: Qual a melhor modalidade de contratação, CLT ou PJ? 
